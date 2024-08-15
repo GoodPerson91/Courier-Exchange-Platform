@@ -1,4 +1,4 @@
-# courier-exchange-platform
+# Courier-Exchange-Platform
 Laravel Multi-vendor Courier Exchange Platform. This platform will allow Couriers, Shippers, and Admins to interact seamlessly.
 
 # Key functionalities
