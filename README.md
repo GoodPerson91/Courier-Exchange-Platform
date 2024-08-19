@@ -4,6 +4,11 @@ Laravel Multi-vendor Courier Exchange Platform. This platform will allow Courier
 # Key functionalities
 - Booking and tracking   system for deliveries: This feature is a core part of the platform, enabling shippers to book deliveries and track their progress in real-time.
 - Multivendor platform: The system will support various types of users such as Couriers, Shippers, and Admins. Each user type will have distinct functions and permissions within the system.
+- Real Time Location Tracking
+- Authentication
+- Map Integration
+- Receipt Generation
+- Final Acknowledgement
 
 # Registration demands for both Couriers and Shippers are:
 - Full name and contact details: To keep track of the users and reach out when necessary
